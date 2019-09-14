@@ -1,0 +1,28 @@
+{
+  "name": "github-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node out/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimanshuP90/TypeScript-Basics-.git"
+  },
+  "keywords": [],
+  "author": "himanshu pandey <himanshup895@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HimanshuP90/TypeScript-Basics-/issues"
+  },
+  "homepage": "https://github.com/HimanshuP90/TypeScript-Basics-#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.138",
+    "@types/request": "^2.48.3"
+  }
+}
